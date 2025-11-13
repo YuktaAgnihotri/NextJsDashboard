@@ -3,6 +3,6 @@ import { Lusitana } from 'next/font/google'
 
 export const inter = Inter ({ subsets : ['cyrillic']})
 
-export const lusitana = Lusitana({weight: "700" })
+export const lusitana = Lusitana({weight: "400"})
 
 
